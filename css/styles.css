@@ -84,8 +84,10 @@
   }
   
   #email-container {
+    /*
     display: flex;
     justify-content: center;
+    */
   }
   
   #email-container ion-icon,
