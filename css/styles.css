@@ -83,12 +83,12 @@
     font-size: 30px;
   }
   
+  /*
   #email-container {
-    /*
     display: flex;
     justify-content: center;
-    */
   }
+  */
   
   #email-container ion-icon,
   #email-container a {
